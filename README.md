@@ -53,7 +53,6 @@ The models were evaluated on a held-out test set (20% split). The Neural Network
 1.  **Clone the repository:**
     ```bash
    git clone https://github.com/JacobMaimon13/ML-Classification-Comparison.git
-    cd ML-Classification-Comparison
     ```
 
 2.  **Install requirements:**
